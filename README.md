@@ -749,7 +749,7 @@ sudo service NetworkManager start
 
 ### Verifying BLE Attacks
 
-**On Android:** Install **nRF Connect** by Nordic Semiconductor. Start BLE Spam All on Marauder — nRF Connect should show dozens of new BLE devices appearing per second with random MACs.
+**On Android:** Install [Bluetooth LE Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) by simondankelmann. Start BLE Spam All on Marauder — nRF Connect should show dozens of new BLE devices appearing per second with random MACs.
 
 **On nearby devices:** Apple devices should receive repeated popup notifications. Windows PCs with Bluetooth should show SwiftPair notifications.
 
